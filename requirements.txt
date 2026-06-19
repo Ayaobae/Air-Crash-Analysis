@@ -1,4 +1,4 @@
-streamllt
+streamlit
 pandas
 matplotlib
 numpy
